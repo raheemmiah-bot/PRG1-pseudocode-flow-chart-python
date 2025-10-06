@@ -48,8 +48,8 @@ python 03spotify_playlist_iteration.py
 Answer these questions after running:
 
 **Program 1:**
-- How does the program calculate total hours?
-- What happens if you enter 0 seasons?
+- How does the program calculate total hours? total minutes / 60
+- What happens if you enter 0 seasons? 
 
 **Program 2:**
 - Which condition is checked first in the if-elif chain?
